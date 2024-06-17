@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NisaelMoreiraGomes
-- 👀 I’m interested in GoLang, Javascript, Typescript, Dart, Flutter, VueJs, React, NuxtJS and NextJs.
-- 🌱 I’m currently learning Dart and Flutter.
+- 👀 I’m interested in C, GoLang, Javascript, Typescript, Dart, Flutter and SvelteJs.
+- 🌱 I’m currently learning C and Development for Game Boy Advance.
 
 <!---
 NisaelMoreiraGomes/NisaelMoreiraGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
