@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nisael!!!
 
-Out of a habit I picked up in college, I added this paragraph here. It doesn’t feel right to me to have secondary headings without any text before them, so just pretend there’s some cool content here.
+![](assets/eyes.svg)
 
 ## A Transformative “Hello, World”!
 
