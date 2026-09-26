@@ -1,10 +1,11 @@
 # Hi 👋, I'm Nisael!!!
 
-![](assets/eyes.svg)
+![keeping an eye on you](assets/eyes.svg)
 
 ## A Transformative “Hello, World”!
 
 Since I was a child, I have always been fascinated by electronics. I was very curious about understanding how everything worked, and that resulted in many digital watches being taken apart and never put back together.
+
 Some time later, at a LAN house in a small town in the countryside, a friend of mine, who also happened to own the LAN house, told me something that stuck with me:
 
 > “Dude, I got curious and started learning how to ‘program’ in HTML to create websites.”`
@@ -15,7 +16,7 @@ Around 2012, I discovered Professor Gustavo Guanabara on YouTube. I downloaded a
 
 My first “Hello, World” in HTML was magical. I thought I was programming because, at the time, I didn’t know that HTML was not a programming language.
 
-Since then, I have kept studying. I went through **Flash with ActionScript 2.0, PHP, Python, JavaScript, and TypeScript with Node.js**. I also used **Vue.js and Nuxt** for a long time, until I eventually found Svelte, which I really enjoy.
+Since then, I have kept studying. I went through **Flash with ActionScript 2.0, PHP, Python, JavaScript, and TypeScript with Node.js**. I also used **Vue.js and Nuxt** for a long time, until I eventually found **Svelte**, which I really enjoy.
 
 Today, I study **Flutter with Dart, Go, and C**, which brings us to a second “Hello, World.”
 
@@ -24,19 +25,19 @@ Today, I study **Flutter with Dart, Go, and C**, which brings us to a second “
 I decided to face something I had been avoiding for a long time. I had always been very curious about low-level technologies, or even high-level technologies that could somehow bring me closer to the hardware.
 This caused me quite a few headaches, but along with them came a lot of fun. The result has been a great deal of knowledge acquired, along with a few completed projects and many unfinished ones.
 
-The first step I took was the **PS2-MC-Manager** project, inspired by the documentation of the **MyMC** project. Although it is not finished, I was able to **read the Super Block of the PS2 Memory Card** and **perform validations and unit tests, all using JavaScript in the browser**.
+The first step I took was the [PS2-MC-Manager](https://github.com/NisaelMoreiraGomes/ps2-mc-manager) project, inspired by the documentation of the **MyMC** project. Although it is not finished, I was able to **read the Super Block of the PS2 Memory Card** and **perform validations and unit tests, all using JavaScript in the browser**.
 
 Through this project, I was able to learn about **bit shifting, work with typed arrays, and get a little bit into reverse engineering**.
 
 The second project was an attempt to learn Assembly for Linux x86-64. I created a Docker image with a minimal Alpine Linux environment that runs on ARM architectures while using the amd64 environment, since my machine does not natively support the architecture of the Assembly platform I wanted to use.
 
-This resulted in the **linux-amd64-on-apple-silicon** repository.
+This resulted in the [linux-amd64-on-apple-silicon](https://github.com/NisaelMoreiraGomes/linux-amd64-on-apple-silicon) repository.
 
 I also flirted with game development for the Game Boy Advance for a while, and I’m still dabbling in it from time to time. I’ve been studying whenever I have the time, and I managed to display a “Hello, World” written in C on the screen of a Nintendo DS — even if it was emulated, since I haven’t been able to get an EverDrive to run it natively yet:
 
 ![Hello World GBA](assets/hello_world_gba.webp)
 
-Finally, I also created the **weather-report** project to practice C. I used **ESP-IDF, FreeRTOS, and LVGL 9** to display temperature and air humidity in real time.
+Finally, I also created the [weather-report](https://github.com/NisaelMoreiraGomes/weather-report) project to practice C. I used **ESP-IDF, FreeRTOS, and LVGL 9** to display temperature and air humidity in real time.
 
 This project allowed me to grow a lot because I faced several challenges.
 
@@ -56,7 +57,7 @@ This project allowed me to grow a lot because I faced several challenges.
 
 - 📝 I will soon write more on [https://baixonivel.blog/](https://baixonivel.blog/)
 
-- 💬 Ask me about **ESP-IDF, FreeRTOS, Svelte and Astro.**
+- 💬 Ask me about **ESP-IDF, FreeRTOS, Svelte, Godot and Astro.**
 
 - ⚡ Fun fact **The Little Prince** is my favorite book, but I don't have a favorite song, movie, series, or cartoon.
 
