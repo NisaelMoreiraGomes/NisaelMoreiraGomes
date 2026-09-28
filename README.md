@@ -64,6 +64,7 @@ This project allowed me to grow a lot because I faced several challenges.
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Olá, mundo!!! Nascimento do Portal com Astro](https://baixonivel.blog/2026/09/ola-mundo/)
 - [Me aventurando no desenvolvimento Homebrew de jogos para GameBoy Advance — Parte 2](https://medium.com/@NisaelMGomes/me-aventurando-no-desenvolvimento-homebrew-de-jogos-para-gameboy-advance-parte-2-04fdf46113e8?source=rss-d952d9b9928b------2)
 - [Me aventurando no desenvolvimento Homebrew de jogos para GameBoy Advance — Parte 1](https://medium.com/@NisaelMGomes/me-aventurando-no-desenvolvimento-homebrew-de-jogos-para-gameboy-advance-parte-1-da2776f32c6f?source=rss-d952d9b9928b------2)
 <!-- BLOG-POST-LIST:END -->
